@@ -1,16 +1,13 @@
-### Hi there 👋
+### Nice to meet you! 👋  
 
-<!--
-**ThompsonBethany01/ThompsonBethany01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![business-card](https://www.pinterest.com/pin/742249582331117581/)   
+  
+As a data science student at Codeup, I am currently learning supervised machine learning algorithms.  
 
-Here are some ideas to get you started:
+To check out my online portfolio, click [here](thompsonbethany01.github.io) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact me at thompson.bethany.01@gmail.com  
+
+Pronouns: She/Her  
+
+Last book finished: The Institute by Stehpen King
