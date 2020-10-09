@@ -1,6 +1,6 @@
 ### Nice to meet you! 👋  
 
-![business-card](https://www.pinterest.com/pin/742249582331117581/)   
+![business-card](https://i.pinimg.com/originals/14/6c/8d/146c8d61749a8354cce9eb5345279cee.gif)   
   
 As a data science student at Codeup, I am currently learning supervised machine learning algorithms.  
 
