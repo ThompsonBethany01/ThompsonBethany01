@@ -19,4 +19,4 @@ Here's my card.
 > 📖 Currently reading - Dragonfly by Leila Meacham  
 > 📄 On my list - How Charts Lie: Getting Smarter about Visual Information by Alberto Cairo  
 
-[![Beth's github stats](https://github-readme-stats.vercel.app/api?username=ThompsonBethany01&theme=solarized-light)](https://github.com/ThompsonBethany01/github-readme-stats)
+[![Beth's github stats](https://github-readme-stats.vercel.app/api?username=ThompsonBethany01&theme=calm&hide=prs&show_icons=true)](https://github.com/ThompsonBethany01/github-readme-stats)
