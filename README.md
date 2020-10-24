@@ -12,13 +12,11 @@ Here's my card.
 
 🖇  Connect with me on [LinkedIn](https://www.linkedin.com/in/bethany-thompson-068009142/)  
 
-<a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
-  <img src="https://pronouns.vercel.app/she/her?flag=bi?gradient=mystic" width="256" height="64" alt="My pronouns are she/her">
-</a>    
-  
+😄 Pronouns: she/her  
+
+[![Beth's github stats](https://github-readme-stats.vercel.app/api?username=ThompsonBethany01&theme=calm&hide=prs&show_icons=true)](https://github.com/ThompsonBethany01/github-readme-stats)  
+
 📚  Bookshelf: 
 > 📔 Last read - The Institute by Stephen King  
 > 📖 Currently reading - Dragonfly by Leila Meacham  
 > 📄 On my list - How Charts Lie: Getting Smarter about Visual Information by Alberto Cairo  
-
-[![Beth's github stats](https://github-readme-stats.vercel.app/api?username=ThompsonBethany01&theme=calm&hide=prs&show_icons=true)](https://github.com/ThompsonBethany01/github-readme-stats)
