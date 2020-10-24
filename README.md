@@ -10,10 +10,12 @@ Here's my card.
 
 🌎  Check out my [Tableau](https://public.tableau.com/profile/thompson.bethany.01#!/)  
 
-🖇  Connect with me on [LinkedIn](https://www.linkedin.com/in/bethany-thompson-068009142/)
+🖇  Connect with me on [LinkedIn](https://www.linkedin.com/in/bethany-thompson-068009142/)  
 
-😄  Pronouns: She/Her  
-
+<a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
+  <img src="https://pronouns.vercel.app/she/her?flag=bi?gradient=mystic" width="256" height="64" alt="My pronouns are she/her">
+</a>    
+  
 📚  Bookshelf: 
 > 📔 Last read - The Institute by Stephen King  
 > 📖 Currently reading - Dragonfly by Leila Meacham  
