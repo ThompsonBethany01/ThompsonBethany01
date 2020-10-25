@@ -23,7 +23,7 @@ My personal interests include reading a good science fiction book, listening to 
 
 ![bookshelf](https://i.pinimg.com/originals/9d/92/5a/9d925ac1c7ee233d4f37f988416bc8f2.png) 
 
-[![Beth's github stats](https://github-readme-stats.vercel.app/api?username=ThompsonBethany01&theme=graywhite&hide=prs&show_icons=true)](https://github.com/ThompsonBethany01/github-readme-stats)  
+[![Beth's github stats](https://github-readme-stats.vercel.app/api?username=ThompsonBethany01&theme=graywhite&hide=prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
 <!--START_SECTION:waka-->
 ```text
