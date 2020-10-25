@@ -22,4 +22,7 @@ Here's my card.
 > 📄 On my list - How Charts Lie: Getting Smarter about Visual Information by Alberto Cairo  
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
