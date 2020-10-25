@@ -1,4 +1,4 @@
-![Profile-Header](https://i.pinimg.com/originals/46/ef/11/46ef1143901b806cd5423b76eb56b2dc.png)
+![Profile-Header](https://i.pinimg.com/originals/e9/52/a7/e952a7d299d90126597573613d712a46.png)
 
 ## *About Me*
 I am currently attending Codeup, a fully-immersive, project-based 22-week Data Science career accelerator.  
@@ -16,7 +16,7 @@ My personal interests include reading a good science fiction book, listening to 
 ## *Portfolios*
 [Github](https://thompsonbethany01.github.io) | [Tableau](https://public.tableau.com/profile/thompson.bethany.01#!/) | [Pinterest](https://www.pinterest.com/thompsonbethany01/pins/)
 
-![bookshelf](https://i.pinimg.com/originals/ca/68/12/ca6812841c1bb1815b390b00d1fb74b5.png) 
+![bookshelf](https://i.pinimg.com/originals/9d/92/5a/9d925ac1c7ee233d4f37f988416bc8f2.png) 
 
 [![Beth's github stats](https://github-readme-stats.vercel.app/api?username=ThompsonBethany01&theme=graywhite&hide=prs&show_icons=true)](https://github.com/ThompsonBethany01/github-readme-stats)  
 
