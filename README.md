@@ -1,28 +1,24 @@
-### Nice to meet you! 👋  
+![Profile-Header](https://i.pinimg.com/originals/46/ef/11/46ef1143901b806cd5423b76eb56b2dc.png)
 
-Here's my card.
+## *About Me*
+I am currently attending Codeup, a fully-immersive, project-based 22-week Data Science career accelerator.  
+I've learned each step of the DS pipeline:  
 
-![business-card](https://i.pinimg.com/originals/14/6c/8d/146c8d61749a8354cce9eb5345279cee.gif)  
+``` Acquire  -  Prepare  -  Explore  -  Modeling  -  Delivering the Final Product  ```
+
+The data isn't always (-cough- more like never -cough-) easy on the eyes, but I make sure the final project is. I am drawn to the visual side of data, such as creating interactive Tableau Storybooks and presentations that keep the audience drawn in.  
+
+My personal interests include reading a good science fiction book, listening to music, and rollerskating (*very carefully*, knee pads and all). Most importantly, I love being creative in everything possible.
   
-👩🏼‍💻 As a data science student at Codeup, I am currently learning unsupervised machine learning algorithms - specifically clustering.  
+## *Connect With Me*
+<a href="mailto:thompsonbethany01@gmail.com">Send Me an Email</a> | [LinkedIn](https://www.linkedin.com/in/bethany-thompson-068009142/) |  [Twitter](https://twitter.com/Thompson_Beth01)
 
-📨  Contact me: thompson.bethany.01@gmail.com  
+## *Portfolios*
+[Github](https://thompsonbethany01.github.io) | [Tableau](https://public.tableau.com/profile/thompson.bethany.01#!/) | [Pinterest](https://www.pinterest.com/thompsonbethany01/pins/)
 
-🌎  Check out my [Tableau](https://public.tableau.com/profile/thompson.bethany.01#!/)  
+![bookshelf](https://i.pinimg.com/originals/ca/68/12/ca6812841c1bb1815b390b00d1fb74b5.png) 
 
-🖇  Connect with me on [LinkedIn](https://www.linkedin.com/in/bethany-thompson-068009142/)  
-
-😄 Pronouns: she/her  
-
-[![Beth's github stats](https://github-readme-stats.vercel.app/api?username=ThompsonBethany01&theme=calm&hide=prs&show_icons=true)](https://github.com/ThompsonBethany01/github-readme-stats)  
-
-📚  Bookshelf: 
-> 📔 Last read - The Institute by Stephen King  
-> 📖 Currently reading - Dragonfly by Leila Meacham  
-> 📄 On my list - How Charts Lie: Getting Smarter about Visual Information by Alberto Cairo  
+[![Beth's github stats](https://github-readme-stats.vercel.app/api?username=ThompsonBethany01&theme=graywhite&hide=prs&show_icons=true)](https://github.com/ThompsonBethany01/github-readme-stats)  
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
