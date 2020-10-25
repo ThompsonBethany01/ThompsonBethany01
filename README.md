@@ -21,4 +21,7 @@ My personal interests include reading a good science fiction book, listening to 
 [![Beth's github stats](https://github-readme-stats.vercel.app/api?username=ThompsonBethany01&theme=graywhite&hide=prs&show_icons=true)](https://github.com/ThompsonBethany01/github-readme-stats)  
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
