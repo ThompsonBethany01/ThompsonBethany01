@@ -27,6 +27,7 @@ My personal interests include reading a good science fiction book, listening to 
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Other      3 hrs 44 mins   ████████████████████████▒   96.95 % 
+Bash       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 ```
 <!--END_SECTION:waka-->
