@@ -1,7 +1,11 @@
-![Profile-Header](https://i.pinimg.com/originals/e9/52/a7/e952a7d299d90126597573613d712a46.png)
+![Profile-Header](https://i.pinimg.com/originals/e9/52/a7/e952a7d299d90126597573613d712a46.png)  
 
 ## *About Me*
-I am currently attending Codeup, a fully-immersive, project-based 22-week Data Science career accelerator.  
+<details>
+  <summary>Click to expand!</summary>
+  
+### Nice to virtually meet you!  
+Hello, my name's Bethany Thompson.🤝 I am currently attending Codeup, a fully-immersive, project-based 22-week Data Science career accelerator.  
 I've learned each step of the DS pipeline:  
 
 ``` Acquire  -  Prepare  -  Explore  -  Modeling  -  Delivering the Final Product  ```
@@ -9,6 +13,7 @@ I've learned each step of the DS pipeline:
 The data isn't always (-cough- more like never -cough-) easy on the eyes, but I make sure the final project is. I am drawn to the visual side of data, such as creating interactive Tableau Storybooks and presentations that keep the audience drawn in.  
 
 My personal interests include reading a good science fiction book, listening to music, and rollerskating (*very carefully*, knee pads and all). Most importantly, I love being creative in everything possible.
+</details>
 
 ## *Connect With Me*
 <a href="mailto:thompsonbethany01@gmail.com">Send Me an Email</a> | [LinkedIn](https://www.linkedin.com/in/bethany-thompson-068009142/) |  [Twitter](https://twitter.com/Thompson_Beth01)
