@@ -10,7 +10,7 @@ I've learned each step of the DS pipeline:
 
 ``` Acquire  -  Prepare  -  Explore  -  Modeling  -  Delivering the Final Product  ```
 
-The data isn't always (-cough- more like never -cough-) easy on the eyes, but I make sure the final project is. I am drawn to the visual side of data, such as creating interactive Tableau Storybooks and presentations that keep the audience drawn in.  
+The data isn't always (~more like never~) easy on the eyes, but I make sure the final project is. I am drawn to the visual side of data, such as creating interactive Tableau Storybooks and presentations that keep the audience drawn in.  
 
 My personal interests include reading a good science fiction book, listening to music, and rollerskating (*very carefully*, knee pads and all). Most importantly, I love being creative in everything possible.
 </details>
