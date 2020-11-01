@@ -38,12 +38,12 @@ My personal interests include reading a good science fiction book, listening to 
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 October, 2020 - 30 October, 2020
+Week: 24 October, 2020 - 31 October, 2020
 
-Other        17 hrs 57 mins  ██████████████████████▒░░   89.17 % 
-Python       1 hr 45 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-Markdown     14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-Bash         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Other        18 hrs 3 mins   ██████████████████████▒░░   88.85 % 
+Python       1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Markdown     14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Bash         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 ```
 <!--END_SECTION:waka-->
