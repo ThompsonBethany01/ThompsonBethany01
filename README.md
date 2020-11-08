@@ -29,12 +29,12 @@ My personal interests include reading a good science fiction book, listening to 
 ![bookshelf](https://i.pinimg.com/originals/9d/92/5a/9d925ac1c7ee233d4f37f988416bc8f2.png) 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThompsonBethany01&theme=graywhite&show_icons=true&hide=commits"width=400/>
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=ThompsonBethany01&theme=graywhite&show_icons=true" width=400/>
+</a>  
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThompsonBethany01" width=400/>
-</a>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThompsonBethany01" width=400/>
+</a>  
 
 <!--START_SECTION:waka-->
 ```text
@@ -45,3 +45,5 @@ Git Config   5 mins          ██▓░░░░░░░░░░░░░░
 Python       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 <!--END_SECTION:waka-->
+
+![Quote](https://i.pinimg.com/originals/4e/a2/8f/4ea28fb3d69db7e37e9704e2f0444fc4.png)
