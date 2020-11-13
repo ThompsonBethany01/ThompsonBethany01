@@ -38,11 +38,11 @@ My personal interests include reading a good science fiction book, listening to 
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 November, 2020 - 11 November, 2020
+Week: 05 November, 2020 - 12 November, 2020
 
-Other        44 mins         ████████████████████▓░░░░   83.15 % 
-Python       7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Markdown     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Other        35 mins         ████████████████████░░░░░   79.52 % 
+Python       7 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Markdown     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 ```
 <!--END_SECTION:waka-->
 
