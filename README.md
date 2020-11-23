@@ -36,13 +36,4 @@ My personal interests include reading a good science fiction book, listening to 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThompsonBethany01" width=400/>
 </a>  
 
-<!--START_SECTION:waka-->
-```text
-Week: 15 November, 2020 - 22 November, 2020
-
-Other        42 hrs 25 mins  ████████████████████████▒   97.88 % 
-Python       54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-```
-<!--END_SECTION:waka-->
-
 ![Quote](https://i.pinimg.com/originals/4e/a2/8f/4ea28fb3d69db7e37e9704e2f0444fc4.png)
