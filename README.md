@@ -19,7 +19,7 @@ My personal interests include reading a good science fiction book, listening to 
 <a href="mailto:thompsonbethany01@gmail.com">Send Me an Email</a> | [LinkedIn](https://www.linkedin.com/in/bethany-thompson-068009142/) |  [Twitter](https://twitter.com/Thompson_Beth01)
 
 ## *Portfolios*
-[View my Resume](https://drive.google.com/file/d/1cMOcmehTdTh5x-8Tm_XJRUuGi4fci4qN/view) | [Github](https://thompsonbethany01.github.io) | [Tableau](https://public.tableau.com/profile/thompson.bethany.01#!/) | [Pinterest](https://www.pinterest.com/thompsonbethany01/pins/)
+[View my Resume](https://drive.google.com/file/d/1cMOcmehTdTh5x-8Tm_XJRUuGi4fci4qN/view) | [Github.io](https://thompsonbethany01.github.io) | [GitShowcase](https://www.gitshowcase.com/thompsonbethany01) | [Tableau](https://public.tableau.com/profile/thompson.bethany.01#!/) | [Pinterest](https://www.pinterest.com/thompsonbethany01/pins/)
 
 ## *Tools*
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
