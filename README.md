@@ -1,11 +1,11 @@
-![Profile-Header](https://i.pinimg.com/originals/e9/52/a7/e952a7d299d90126597573613d712a46.png)  
+![Profile-Header](https://github.com/ThompsonBethany01/ThompsonBethany01/blob/main/images/Profile_Header.gif?raw=true)  
 
 ## *About Me*
 <details>
   <summary>Click to expand!</summary>
   
 ### Nice to virtually meet you!  
-Hello, my name's Bethany Thompson.🤝 I am currently attending Codeup, a fully-immersive, project-based 22-week Data Science career accelerator.  
+Hello, my name's Bethany Thompson.🤝 I graduated from Codeup, a fully-immersive, project-based Data Science career accelerator.  
 I've learned each step of the DS pipeline:  
 
 ``` Acquire  -  Prepare  -  Explore  -  Modeling  -  Delivering the Final Product  ```
@@ -26,8 +26,6 @@ My personal interests include reading a good science fiction book, listening to 
 
 ![profile-visitors](https://visitor-badge.glitch.me/badge?page_id=ThompsonBethany01.ThompsonBethany01)
 
-![bookshelf](https://i.pinimg.com/originals/9d/92/5a/9d925ac1c7ee233d4f37f988416bc8f2.png) 
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=ThompsonBethany01&theme=graywhite&show_icons=true" width=400/>
 </a>  
@@ -36,4 +34,4 @@ My personal interests include reading a good science fiction book, listening to 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThompsonBethany01" width=400/>
 </a>  
 
-![Quote](https://i.pinimg.com/originals/4e/a2/8f/4ea28fb3d69db7e37e9704e2f0444fc4.png)
+![Quote](https://github.com/ThompsonBethany01/ThompsonBethany01/blob/main/images/Quote.gif?raw=true)
