@@ -24,7 +24,7 @@ My personal interests include reading a good science fiction book, listening to 
 ## *Tools*
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 
-![profile-visitors](https://visitor-badge.glitch.me/badge?page_id=ThompsonBethany01.ThompsonBethany01)
+![Stats](https://github.com/ThompsonBethany01/ThompsonBethany01/blob/main/images/GitHub_Stats.gif?raw=true)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=ThompsonBethany01&theme=graywhite&show_icons=true" width=400/>
@@ -33,5 +33,7 @@ My personal interests include reading a good science fiction book, listening to 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThompsonBethany01" width=400/>
 </a>  
+
+![profile-visitors](https://visitor-badge.glitch.me/badge?page_id=ThompsonBethany01.ThompsonBethany01)
 
 ![Quote](https://github.com/ThompsonBethany01/ThompsonBethany01/blob/main/images/Quote.gif?raw=true)
