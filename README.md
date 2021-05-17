@@ -5,12 +5,14 @@
   <summary>Click to expand!</summary>
   
 ### Nice to virtually meet you!  
-Hello, my name's Bethany Thompson.🤝 I graduated from Codeup, a fully-immersive, project-based Data Science career accelerator.  
-I've learned each step of the DS pipeline:  
-
-``` Acquire  -  Prepare  -  Explore  -  Modeling  -  Delivering the Final Product  ```
+Hello, my name's Bethany Thompson.🤝 I graduated from Codeup, a fully-immersive, project-based Data Science career accelerator. Now, I work as a Database Analyst Associate at GDIT.
 
 The data isn't always (~more like never~) easy on the eyes, but I make sure the final project is. I am drawn to the visual side of data, such as creating interactive Tableau Storybooks and presentations that keep the audience drawn in.  
+
+I'm a certified Tableau Desktop Specialist! My current goals include:  
+- [ ] Become a Tableau Desktop Certified Associate
+- [ ] Pass the PSM1 certification  
+- [ ] Push to GitHub at least once a week
 
 My personal interests include reading a good science fiction book, listening to music, and rollerskating (*very carefully*, knee pads and all). Most importantly, I love being creative in everything possible.
 </details>
